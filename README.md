@@ -16,10 +16,10 @@ Before diving in, make sure you have the essentials:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/fastapi-ml-playground.git
+   git clone [https://github.com/your-username/fastapi-ml-playground.git](https://github.com/osman-haider/Fastapi-Traning-Prediction.git)
    cd fastapi-ml-playground
 pip install -r requirements.txt
 
 ### Dataset
 
-We've included a sample dataset in the dataset/ directory. Feel free to swap it out with your own data while keeping the required format.
+We've included a sample dataset. Feel free to swap it out with your own data while keeping the required format.
